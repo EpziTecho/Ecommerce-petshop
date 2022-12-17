@@ -1,0 +1,127 @@
+{
+    "header_tienda": {
+        "navbar-negro-bienvenido":"Welcome User: ",
+        "navbar-negro-iniciar-sesion":"Log in",
+        "navbar-negro-registrarse":"Sign in",
+        "navbar-negro-mi-cuenta":"My account",
+        "navbar-negro-salir":"Exit",
+        "navbar-inicio": "Home",
+        "navbar-tienda": "Shop",
+        "navbar-carrito": "Cart",
+        "navbar-ofertas": "On sale",
+        "navbar-nosotros": "About us",
+        "navbar-contacto": "Contact us"
+    },
+    "pagina-inicio": {
+        "descripcion-slider-perros": "All for your dog",
+        "descripcion-slider-gatos": "All for your cat",
+        "descripcion-slider-otros": "All for your other pets",
+        "nombre-slider-perros": "Dogs",
+        "nombre-slider-gatos": "Cats",
+        "nombre-slider-otros": "Other pets",
+        "boton-slider": "See products",
+        "boton-compra": "Buy now",
+        "txt-cupon": "Products for your pets",
+        "filtrado-1": "All our products",
+        "filtrado-2": "Dogs products",
+        "filtrado-3": "Cats products",
+        "filtrado-4": "Other productos",
+        "filtrado-5": "On sale",
+        "boton-ver-mas": "See more",
+        "boton-buscar":"Search",
+        "carrito-titulo":"Your cart",
+        "carrito-instrucciones":"Add products and take the first step to start your purchase.",
+        "carrito-vacio":"Empty cart",
+        "carrito-boton":"See product(s)",
+        "agregar-carrito":"Add to cart",
+        "mirar-carrito":"See cart",
+        "pago-carrito":"Process payment",
+        "relacionado":"Related product",
+        "carrito-direccion": "Shipping Address",
+        "carrito-resumen":"Summary",
+        "carrito-envio":"Shipment",
+        "carrito-cupon":"Discount coupon:",
+        "carrito-aceptar":"OK",
+        "carrito-clic" :"By clicking you agree to the terms and conditions",
+        "carrito-metodo":"Payment method",
+        "carrito-recoger":"Store Pickup",
+        "carrito-paypal":"To complete the transaction, we will send you to PayPal's secure servers.",
+        "carrito-pagar":"Pay",
+        "carrito-tipo":"Payment type",
+        "carrito-validar":"Validate",
+        "carrito-nombre":"Name",
+       "carrito-apellido":"Surname",
+       "carrito-usuario":"Username",
+       "carrito-contraseña":"Password",
+       "libro-reclamacion-titulo":"Book of reclamation"
+    },
+
+    "footer_tienda": {
+        "categorias-titulo": "Categories",
+        "categorias-nombre-footer-perros": "Dogs",
+        "categorias-nombre-footer-gatos": "Cats",
+        "categorias-nombre-footer-otros": "Other pets",
+        "soporte-titulo": "Support",
+        "soporte-preguntas": "Frecuently asked questions",
+        "soporte-politicas": "Policies",
+        "soporte-envios": "Shipments",
+        "soporte-como": "How to buy",
+        "contacto-titulo": "Contact us",
+        "contacto-pregunta": "Do you have a problem with your purchase? Contact us via email at Ohmypetshop@mail.com or call us at (+51) 966 716 687",
+        "ofertas-titulo": "Receive incredible offers",
+        "suscribete-boton": "Suscribe",
+        "soporte-libroreclamaciones": "Book of claims",
+        "soporte-terminos" : "Terms and Conditions"
+    },
+
+    "nosotros": {
+        "nosotros-titulo": "About us",
+        "nosotros-introduccion": "<p>At Oh My Pet! we believe that in order to meet the expectations of our customers we have the following values:</p>",
+        "nosotros-servicio-subtitulo": "<p>SERVICE</p>",
+        "nosotros-servicio-contenido": "<p>The&nbsp;quality of customer service is&nbsp;the main value&nbsp;that differentiates us&nbsp;from&nbsp;our competitors&nbsp;and&nbsp;is the&nbsp;factor&nbsp;of&nbsp;success of&nbsp;our company.&nbsp;The&nbsp;quality&nbsp; ;service is measured in&nbsp;all interactions with&nbsp;customers.</p>",
+        "nosotros-cumplimiento-subtitulo": "<p>COMPLIANCE</p>",
+        "nosotros-cumplimiento-contenido": "<p>It is the&nbsp;execution&nbsp;of&nbsp;our work, negotiated and declared according to&nbsp;the characteristics of quality, quantity and&nbsp;possibility.&nbsp;In our&nbsp;operation,&nbsp;this value is&nbsp; manifests itself especially&nbsp;in customer service.</p>",
+        "nosotros-calidad-subtitulo": "<p>QUALITY</p>",
+        "nosotros-calidad-contenido": "<p>Represents&nbsp;love,&nbsp;mission&nbsp;and respect&nbsp;for&nbsp;others. It&nbsp;affection, kindness&nbsp;and&nbsp;kindness&nbsp;in&nbsp;relationships&nbsp;with our colleagues, clients , business partners and other interlocutors. It&nbsp;is a sign of attention that&nbsp;we want to receive and&nbsp;offer to others.</p>",
+        "nosotros-compromiso-subtitulo": "<p>COMMITMENT</p>",
+        "nosotros-compromiso-contenido": "<p>It&nbsp;stems&nbsp;from&nbsp;a personal belief in the benefits of&nbsp;performing&nbsp;responsible&nbsp;tasks. This commitment&nbsp;allows us to move from promises to&nbsp;actions that produce&nbsp;tangible results and benefits.</p>" ,
+        "nosotros-innovacion-subtitulo": "<p>INNOVATION</p>",
+        "nosotros-innovacion-contenido": "<p>It&nbsp;is an effective use&nbsp;of creativity.&nbsp;This is reflected in redefining and/or reinventing products, strategies, activities and functions&nbsp;in order to improve them. Innovations can&nbsp;find greater benefits than&nbsp ;existing ones.</p>"
+      },
+
+    "contacto":{
+        "contacto-titulo": "Contact us",
+        "enviar-mensaje":"Send a message",
+       
+        "btn-enviar":"Submit",
+        "direccion-titulo": "Address",
+        "telefono-titulo": "Phone number",
+        "email": "Email",
+        "whatsapp": "If you prefer you can leave a message on WhatsApp"
+    },
+
+    "terminos-condiciones":{
+        "h1": "Terms and Conditions",
+        "titulo": "DETAILED INFORMATION ON TERMS AND CONDITIONS",
+        "parte-1":"<span>The terms and conditions of the Virtual Store are described below!</span></p>",
+        "parte-2":"<ol><li><p>Thank you for visiting this website. Please read carefully the TERMS AND CONDITIONS of the content in this document since any use of this website constitutes your tacit and/or express acceptance of them. In other words, every time this website is used, the Terms and Conditions set out here are fully accepted.</p><ol><li><strong> User Creation</strong></li></ol>",
+        "parte-3":"<p>In order to make purchases online, it is essential that the person who in this case we will call 'client' must have created a user account to be able to access it.</p><p>In case the client does not have a user account, it can be created without problem by entering a username (email) and a password. And it is that the client has problems creating these, they have the possibility of approaching one of the establishments of our closest Stores in person and requesting help from one of our collaborators to create an account.</p><p>Once registered, you will receive a notification to your email with the confirmation of the user creation and resending the data that was entered.</p><p>In the event that the client forgets the password, they can go to Forgot the password to enter their email and a link will be sent to them to modify it.</p>",
+        "parte-4":"<li><strong> Online Shopping</strong></li></ol><p>Once an account has been registered in the 'Oh My Pet' Online Store, the customer will be able to buy the products we offer without any problem.</p><p>The customer will be able to select the products and these will be added to the shopping cart, which when paying will have the option to choose if they want the products to come home by delivery (which will have an extra cost) or want to pick it up in store .</p><p>The client will be able to choose the day they want the delivery to arrive, after that, the programming would be communicated by WhatsApp to coordinate the time range for the motorized to arrive.</p><p>The payment methods can be with Visa, Mastercard, American Express and Paypal cards, both dollars and soles.</p><p>Once the payment has been canceled online, a proof of payment confirmation and purchase details will be sent to your email.</p><p>In case the client chooses to pick up the products in the Store, they will have the option to choose the type of payment if it is by card or cash and once they arrive at the establishment, the collaborators will already take into account the payment method.</p><p>In the same way, you will receive a record with the data of the products and type of payment and purchase order so that when you go to the Store, the collaborators can request ID and the order number.</p><p>&nbsp;</p><p>&nbsp;</p>",    
+        "parte-5":"<li><strong> Coupon</strong></li></ol><p>The coupons are published monthly at the top of the page, with a stock for the first 100 people who use it, which is valid the first 15 days of each month and/or until stock runs out.</p><p>To use the coupon, you would have to make purchases greater than S/ 200 or $69. And this discount is made on the total payment.</p><p>The value of the coupon can be given in percentages and these can vary from 10% to 50%.</p><p>Coupons are updated every month, can be used 1 time per user account and only valid for online purchases.</p><p>Coupons are valid for any type of product displayed on our website.</p><p>The coupon discount or coupon amount will be reflected in your proof of purchase.</p>",
+        "parte-6":"<p><strong>4.Delivery</strong></p><p>When selecting that you want your order to come home, you would be selecting delivery which has a standard cost of S/ 50 or $12.99.</p><p>The cost is valid for up to 3 trips in case the order cannot be delivered on the established day or if the client wishes to reschedule the delivery date. In case, the delivery of the order could not be specified in the 3 opportunities, the client must pick it up in person at one of our closest stores.</p><p>Our delivery shipment only applies to Metropolitan Lima and Callao.</p>",
+        "parte-7":"<li><strong> Return</strong></li></ol><p>Returns are made in case the client requires it, which must return the product in good condition if the reason for return is by mistake.</p><p>The amount will be returned to the same payment method.</p><p>The return time for Visa, Mastercard, American Express cards is 30 days.</p><p>The return time for Paypal is 60 days.</p><p>In case you want a return due to poor condition of a product, you must contact our WhatsApp number, attaching videos and / or images and proof of payment and after that they would be communicating with the customer to coordinate the collection of the products and return of the same value.</p>",
+        "parte-8":"<li><strong> Claims/ Complaints</strong></li></ol><p>Claims/complaints can be made by anyone without the need to have a user</p><p>created.</p><p>The client must complete all the requested changes in detail to</p><p>to be able to respond to them in the fastest way by the means indicated.</p><p>The claim and/or Complaint response time is 30 business days and the response can be sent by email or letter.</p><p>&nbsp;</p><p>If you have any further questions or something that is not clear, you can leave your message in the contact us form or send a WhatsApp message or corporate email and one of our collaborators will respond.</p></li></ol>"
+    },
+
+    "faq":{
+        "asd":"<ol><li><strong>What is Oh My Pet! Petshop? </strong>Oh My Pet! is a Peruvian company dedicated to the sale of domestic pet products.</li><li><strong>Where is Oh My Pet! Petshop located?</strong> Oh My Pet! Petshop is located at: Av. Petit. Thouars 385 / Av. Arequipa 265</li><li> <strong>Why buy at Oh My Pet! Petshop?</strong>&nbsp;In Oh My Pet!, you will find the best products at the best prices.In addition, we always have promotions and offers for our most frequent customers.</li></ol><p>&nbsp;</p><p>Other questions</p><ul><li><strong>What payment methods do we accept? </strong><span style='color: #666666; font-family: Arial, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant- caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space : normal; windows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;'>In Oh My Pet! We accept all cards (VISA and Mastercard), cash, PayPal, etc. </span></li></ul>",
+        "error":"Error 404: Page not found",
+        "encontrar":"The page you requested cannot be found.",
+        "atras":"Return"
+    }
+
+        
+ 
+
+   
+}

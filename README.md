@@ -35,3 +35,18 @@ Este proyecto tendrá un impacto positivo en "Oh my Pet" al aumentar las ventas 
 
 ## Imagenes del Desarrollo
 ![Imagen referencial ](https://i.imgur.com/Msf5jMI.jpg)
+![Imagen referencial ](https://i.imgur.com/GR0M2gD.jpg)
+![Imagen referencial ](https://i.imgur.com/fh0kpmb.jpg)
+![Imagen referencial ](https://i.imgur.com/CYIqWTI.jpg)
+![Imagen referencial ](https://i.imgur.com/Msf5jMI.jpg)
+![Imagen referencial ](https://i.imgur.com/Msf5jMI.jpg)
+![Imagen referencial ](https://i.imgur.com/Msf5jMI.jpg)
+![Imagen referencial ](https://i.imgur.com/Msf5jMI.jpg)
+![Imagen referencial ](https://i.imgur.com/Msf5jMI.jpg)
+![Imagen referencial ](https://i.imgur.com/Msf5jMI.jpg)
+![Imagen referencial ](https://i.imgur.com/Msf5jMI.jpg)
+![Imagen referencial ](https://i.imgur.com/Msf5jMI.jpg)
+![Imagen referencial ](https://i.imgur.com/Msf5jMI.jpg)
+![Imagen referencial ](https://i.imgur.com/Msf5jMI.jpg)
+![Imagen referencial ](https://i.imgur.com/Msf5jMI.jpg)
+

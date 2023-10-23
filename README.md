@@ -33,3 +33,5 @@ La pandemia de 2020 forzó a muchas empresas a adaptarse a nuevos métodos de ve
 
 Este proyecto tendrá un impacto positivo en "Oh my Pet" al aumentar las ventas a través del e-commerce. Permitirá a la empresa expandirse en el mercado en línea, ofreciendo una variedad de productos para mascotas con ventas las 24 horas del día. Además, se mantendrá un registro detallado de todas las ventas.
 
+## Imagenes del Desarrollo
+![Imagen referencial ](https://i.imgur.com/Msf5jMI.jpg)

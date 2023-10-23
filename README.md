@@ -52,7 +52,7 @@ Este proyecto tendrá un impacto positivo en "Oh my Pet" al aumentar las ventas 
   </tr>
   <tr>
     <td><img src="https://i.imgur.com/WKH6vFD.jpg" alt="Imagen Referencial 7"></td>
-    <td><img src="https://imgur.com/eS2VICC" alt="Imagen Referencial 8"></td>
+    <td><img src="https://i.imgur.com/eS2VICC.jpg" alt="Imagen Referencial 8"></td>
   </tr>
 </table>
 

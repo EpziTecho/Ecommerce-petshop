@@ -1,6 +1,4 @@
 # Ecommerce-petshop
-Ecommerce de un petshop. Con php, js css
-https://ohmypet.epzi.tech/
 
 # Caso de Negocio - Proyecto "Oh my Pet"
 
@@ -32,6 +30,26 @@ La pandemia de 2020 forzó a muchas empresas a adaptarse a nuevos métodos de ve
 ## Visión General del Proyecto
 
 Este proyecto tendrá un impacto positivo en "Oh my Pet" al aumentar las ventas a través del e-commerce. Permitirá a la empresa expandirse en el mercado en línea, ofreciendo una variedad de productos para mascotas con ventas las 24 horas del día. Además, se mantendrá un registro detallado de todas las ventas.
+
+# Proyecto de Implementación de Sistema Web
+
+## Descripción del Proyecto
+
+Este proyecto se enfoca en la implementación de un sistema web para un petshop llamado "Oh my Pet". El objetivo principal es habilitar la venta de productos para mascotas a través de una plataforma de comercio electrónico (e-commerce). La empresa "Oh my Pet" distribuye una variedad de productos de alta calidad de diferentes marcas, incluyendo "Ricocan", "Canbo", "Mimaskot", "Royal canin", "Kaytee", "Ricocat", y "Gran Plus". La pandemia de 2020 afectó negativamente a la empresa, lo que la llevó a la necesidad de incursionar en la venta en línea. El sistema web permitirá ingresos adicionales a través del e-commerce, que ofrece múltiples opciones de pago, servicios de venta las 24 horas del día, reducción de costos y una atención al cliente mejorada.
+
+## Tecnologías Utilizadas
+
+El proyecto se desarrolló utilizando las siguientes tecnologías:
+
+- PHP Nativo: Se utilizó PHP sin ningún framework adicional para el desarrollo del backend del sistema web.
+- JavaScript: Se empleó JavaScript para crear funciones interactivas y mejorar la experiencia del usuario en el frontend.
+- Bootstrap 5.3: Bootstrap se utilizó para diseñar y dar estilo al frontend del sitio web, lo que garantiza una interfaz de usuario atractiva y responsiva.
+
+## Arquitectura MVC
+
+El proyecto se desarrolló siguiendo el patrón de arquitectura Modelo-Vista-Controlador (MVC). Esta arquitectura separa la lógica de negocio (Modelo), la presentación (Vista) y el control de la aplicación (Controlador), lo que facilita el mantenimiento, la escalabilidad y la modularidad del sistema. La adopción de MVC garantiza un desarrollo estructurado y organizado del sistema web.
+
+
 
 ## Imagenes del Desarrollo
 <table>

@@ -34,19 +34,25 @@ La pandemia de 2020 forzó a muchas empresas a adaptarse a nuevos métodos de ve
 Este proyecto tendrá un impacto positivo en "Oh my Pet" al aumentar las ventas a través del e-commerce. Permitirá a la empresa expandirse en el mercado en línea, ofreciendo una variedad de productos para mascotas con ventas las 24 horas del día. Además, se mantendrá un registro detallado de todas las ventas.
 
 ## Imagenes del Desarrollo
-![Imagen referencial ](https://i.imgur.com/Msf5jMI.jpg)
-![Imagen referencial ](https://i.imgur.com/GR0M2gD.jpg)
-![Imagen referencial ](https://i.imgur.com/fh0kpmb.jpg)
-![Imagen referencial ](https://i.imgur.com/CYIqWTI.jpg)
-![Imagen referencial ](https://i.imgur.com/Msf5jMI.jpg)
-![Imagen referencial ](https://i.imgur.com/Msf5jMI.jpg)
-![Imagen referencial ](https://i.imgur.com/Msf5jMI.jpg)
-![Imagen referencial ](https://i.imgur.com/Msf5jMI.jpg)
-![Imagen referencial ](https://i.imgur.com/Msf5jMI.jpg)
-![Imagen referencial ](https://i.imgur.com/Msf5jMI.jpg)
-![Imagen referencial ](https://i.imgur.com/Msf5jMI.jpg)
-![Imagen referencial ](https://i.imgur.com/Msf5jMI.jpg)
-![Imagen referencial ](https://i.imgur.com/Msf5jMI.jpg)
-![Imagen referencial ](https://i.imgur.com/Msf5jMI.jpg)
-![Imagen referencial ](https://i.imgur.com/Msf5jMI.jpg)
+<table>
+  <tr>
+    <td><img src="https://i.imgur.com/Msf5jMI.jpg" alt="Imagen Referencial 1"></td>
+    <td><img src="https://i.imgur.com/GR0M2gD.jpg" alt="Imagen Referencial 2"></td>
+  </tr>
+  <tr>
+    <td><img src="https://i.imgur.com/fh0kpmb.jpg" alt="Imagen Referencial 3"></td>
+    <td><img src="https://i.imgur.com/CYIqWTI.jpg" alt="Imagen Referencial 4"></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://i.imgur.com/Msf5jMI.jpg" alt="Imagen Referencial 5"></td>
+    <td><img src="https://i.imgur.com/Msf5jMI.jpg" alt="Imagen Referencial 6"></td>
+  </tr>
+  <tr>
+    <td><img src="https://i.imgur.com/Msf5jMI.jpg" alt="Imagen Referencial 7"></td>
+    <td><img src="https://i.imgur.com/Msf5jMI.jpg" alt="Imagen Referencial 8"></td>
+  </tr>
+</table>
 
